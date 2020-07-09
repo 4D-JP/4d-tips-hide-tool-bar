@@ -6,7 +6,7 @@
 
 4Dを起動すると，まず最初に**ユーザーモードのツールバーが表示されるため**です。
 
-![jqiln-a50mg](https://user-images.githubusercontent.com/10509075/87101069-0a757780-c289-11ea-8059-e780e9c6bc88.gif)
+![n47zr-6yyzd](https://user-images.githubusercontent.com/10509075/87101493-380ef080-c28a-11ea-9140-5989866cd26e.gif)
 
 #### 回避策
 
